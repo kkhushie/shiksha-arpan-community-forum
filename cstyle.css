@@ -91,7 +91,7 @@ left: 50%;
     height: 65px;
     width: 65px;
     /* background: linear-gradient(120deg,rgb(145, 253, 255) ,rgb(5, 98, 98), rgb(0, 192, 151)); */
-    background-color: rgb(31, 180, 153);
+    background-color: rgb(255,255,255);
     border: 3px solid rgb(63, 63, 63);
     border-radius: 50%;
     display: flex;
